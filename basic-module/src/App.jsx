@@ -1,10 +1,9 @@
 import Card from "./Card";
-
+import Button from "./button";
 function App() {
     return(
         <>
-        <Card></Card>
-        <Card></Card>
+        <button></button>
 
         </>
     );
